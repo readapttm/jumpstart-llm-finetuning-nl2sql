@@ -1,0 +1,8 @@
+sagemaker
+boto3
+pandas
+zipfile
+json
+numpy
+jsonlines
+random
