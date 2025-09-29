@@ -1,4 +1,4 @@
-# Finetune a simple LLM in AWS Jumpstart
+# Finetune an open-source LLM in AWS Jumpstart for NL2SQL
 
 This notebook demostrates a simple application of finetuning an LLM to translate natural language questions into SQL. We will train on the BIRD dataset (available here: https://bird-bench.github.io/). The goal is to see if finetuning leads to an appreciable improvement is SQL writing ability for a model with few paramters, in this case llama 3.2 1B Instruct. In brief, in the 3 provided notebooks we will:
 
